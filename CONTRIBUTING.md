@@ -16,6 +16,13 @@ Thanks for helping. This guide covers every repository in the organisation; a re
 5. Run `./gradlew build runGameTestServer` and say in the PR how you tested in game.
 6. Commit messages and changelog entries are written in English.
 
+## Code
+
+- Keep files small: split a Java class over ~500 lines by responsibility, and a test class over ~800 lines by system.
+- Do not add ever-growing log or ledger files; history belongs in commits and changelogs.
+- Comment only key points (a non-obvious rule, a balance number and its reason, a workaround for another mod), in English, Portuguese and Chinese (`// EN:`, `// PT:`, `// ZH:`). No comments that repeat the code and no commented-out code.
+- Full conventions are in the [developer docs](https://gtinfinityascension.github.io/GTIA-Dev-Doc/development/conventions/).
+
 ## Releases
 
 - `main` builds nightly packages for testers.

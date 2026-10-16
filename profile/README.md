@@ -15,6 +15,7 @@ GregTech for Minecraft 1.20.1 where the factory is the star: megafactories, real
 | 📖 [GTNA wiki](https://gtinfinityascension.github.io/GregTech-Nexus-Addon/) | ☀️ [Nightly builds](https://github.com/GTInfinityAscension/GregTech-Infinity-Ascension/releases/tag/nightly) |
 | | 📜 [Code of Conduct](https://github.com/GTInfinityAscension/.github/blob/main/CODE_OF_CONDUCT.md) |
 | | 🤖 [AI policy](https://github.com/GTInfinityAscension/.github/blob/main/AI_POLICY.md) |
+| | 📗 [Developer docs](https://gtinfinityascension.github.io/GTIA-Dev-Doc/) |
 | | 📘 [Contribution guidelines](https://github.com/GTInfinityAscension/.github/blob/main/CONTRIBUTING.md) |
 
 ## Projects
