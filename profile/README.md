@@ -12,6 +12,7 @@ GregTech for Minecraft 1.20.1 where the factory is the star: megafactories, real
 | 💬 [Discord](https://discord.gg/d3qHufwRxb) | 📱 [Open a new issue (mobile edition)](https://github.com/GTInfinityAscension/GregTech-Infinity-Ascension/issues/new?template=mobile_bug.yml) |
 | 📦 [Releases](https://github.com/GTInfinityAscension/GregTech-Infinity-Ascension/releases) | 🧹 [All open issues](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3AGTInfinityAscension) |
 | 🖥️ [Server downloads](https://github.com/GTInfinityAscension/GregTech-Infinity-Ascension/releases) | 🛠️ [All open pull requests](https://github.com/pulls?q=is%3Aopen+is%3Apr+org%3AGTInfinityAscension) |
+| 📱 [Play on Android](https://github.com/GTInfinityAscension/GregTech-Infinity-Ascension/blob/main/docs/MOBILE.md) | |
 | 📖 [GTNA wiki](https://gtinfinityascension.github.io/GregTech-Nexus-Addon/) | ☀️ [Nightly builds](https://github.com/GTInfinityAscension/GregTech-Infinity-Ascension/releases/tag/nightly) |
 | | 📜 [Code of Conduct](https://github.com/GTInfinityAscension/.github/blob/main/CODE_OF_CONDUCT.md) |
 | | 🤖 [AI policy](https://github.com/GTInfinityAscension/.github/blob/main/AI_POLICY.md) |
