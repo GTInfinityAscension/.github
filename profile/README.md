@@ -24,5 +24,6 @@ GregTech for Minecraft 1.20.1 where the factory is the star: megafactories, real
 | [GregTech-Infinity-Ascension](https://github.com/GTInfinityAscension/GregTech-Infinity-Ascension) | The modpack: configs, KubeJS, quests, manifest |
 | [GregTech-Nexus-Addon](https://github.com/GTInfinityAscension/GregTech-Nexus-Addon) | GTNA: large machines, Nexus energy network and endgame multiblocks |
 | [GTIACore](https://github.com/GTInfinityAscension/GTIACore) | The pack's core mod: steam-era machines, chemistry slices and pack rules |
+| [Agronomica](https://github.com/GTInfinityAscension/Agronomica) | Industrial crop breeding: NPK soil, climate, metal crops and phytomining (early development) |
 
 **Mobile:** the pack targets Android through the Amethyst launcher with the `.mrpack` build. Mobile reports go in the mobile issue form.
