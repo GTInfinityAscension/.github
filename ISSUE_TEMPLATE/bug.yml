@@ -1,0 +1,26 @@
+name: Bug report
+description: Something in the pack or one of its mods does not work
+labels: [bug]
+body:
+  - type: input
+    id: version
+    attributes: { label: Pack or mod version, placeholder: 0.1.0-dev-4 }
+    validations: { required: true }
+  - type: dropdown
+    id: where
+    attributes: { label: Where, options: [Singleplayer, Dedicated server, LAN] }
+    validations: { required: true }
+  - type: textarea
+    id: what
+    attributes: { label: What happened and what you expected, description: Steps to reproduce help a lot. }
+    validations: { required: true }
+  - type: textarea
+    id: logs
+    attributes: { label: Logs, description: Upload latest.log or crash report (mclo.gs link is fine). }
+  - type: checkboxes
+    id: clean
+    attributes:
+      label: Checks
+      options:
+        - label: I did not add, remove or update mods or configs.
+          required: true
