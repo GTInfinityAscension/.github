@@ -1,14 +1,27 @@
-# AI policy
+# AI usage policy
 
-We accept code, art scripts, translations and documentation written with the help of AI tools. AI is a tool; the person who opens the pull request is the author and is responsible for it.
+AI tools are allowed in GregTech Infinity Ascension projects. The person who opens an issue or pull request is its author and is responsible for every line of it.
 
-## Rules
+* **You must fully understand the code you submit.** If you can't explain what your change does and how it interacts with the rest of the system without the help of an AI tool, don't submit it. A reviewer may ask you to explain any part; if you can't, the pull request is closed.
 
-1. **You must understand what you submit.** A reviewer may ask you to explain any part of a change: what it does, why it is written that way, and how you tested it. If you cannot explain it, the pull request will be closed.
-2. **You must test it.** Run the build and the GameTests (`./gradlew runGameTestServer`) before asking for review, and say in the PR how you checked the change in game.
-3. **No unreviewed dumps.** Do not submit large generated changes you have not read. Split them into reviewable pieces.
-4. **Respect licences.** AI output that reproduces code or assets from another project follows that project's licence, exactly as if you had copied it yourself.
-5. **Say so in the PR.** Tick the AI box in the pull request template and note which parts were AI-assisted.
-6. **No AI-generated replacements for the author's art.** Textures and art made by the pack author are not replaced without the author's approval.
+* **You must test it.** Run the build and the GameTests, and say in the pull request how you checked the change in game (dev environment, full pack, or both).
 
-Issues and bug reports should describe what you actually saw in game. Do not paste AI-written reports you have not checked.
+* **Issues and discussions may use AI, with a human fully in the loop.** Anything generated must be reviewed *and edited* by you before you post it. Do your own research and keep it short. Bug reports describe what you actually saw in game.
+
+* **Fix bugs you have actually hit.** If you haven't reproduced a bug yourself and don't know the code involved, don't point an AI at it and forward the result. Patches for problems the author never saw tend to fix the wrong thing.
+
+* **Media needs the pack author's approval.** AI-generated or AI-assisted textures, models, sounds and art are only accepted when the pack author asked for them or approved them. The author's own art is never replaced without approval.
+
+* **Commits and pull request descriptions are in your own voice.** No AI co-author tags (`Co-authored-by`, session links) in commits.
+
+* **Quests and documentation keep your voice and intent.** AI may help with phrasing and cleanup; the substance and the tone must be yours.
+
+* **Respect licences.** AI output that reproduces another project's code or assets follows that project's licence, exactly as if you had copied it.
+
+* **Bad AI use may be blocked.** People who repeatedly submit low-effort AI contributions may be blocked from contributing.
+
+## There are humans here
+
+Every issue and pull request is read by people. Low-effort, unchecked work moves the cost of checking it onto the maintainers, so please don't send it.
+
+Adapted from the [GTNH AI policy](https://github.com/GTNewHorizons/GTNH-Dev-Doc/blob/master/AI_POLICY.md), which is based on [Ghostty's](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md).
