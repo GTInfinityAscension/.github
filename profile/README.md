@@ -30,7 +30,7 @@ megafactories, real industrial chemistry and long production lines.
 | 🗺️ [Roadmap](https://github.com/GTInfinityAscension/GregTech-Infinity-Ascension/blob/main/ROADMAP.md) | 🛠️ [All open pull requests](https://github.com/pulls?q=is%3Aopen+is%3Apr+org%3AGTInfinityAscension) |
 | 📖 [GTNA wiki](https://gtinfinityascension.github.io/GregTech-Nexus-Addon/) | 📘 [Contribution guidelines](https://github.com/GTInfinityAscension/.github/blob/main/CONTRIBUTING.md) |
 | 💬 [Discord](https://discord.gg/TW5vugknk5) | 📗 [Developer docs](https://gtinfinityascension.github.io/GTIA-Dev-Doc/) |
-| 🖥️ [Server downloads](https://github.com/GTInfinityAscension/GregTech-Infinity-Ascension/releases/latest) | 🪶 [Maven](https://gtinfinityascension.github.io/maven/) |
+| 🖥️ [Server downloads](https://github.com/GTInfinityAscension/GregTech-Infinity-Ascension/releases/latest) | 🪶 [Maven](https://github.com/GTInfinityAscension/maven) |
 | | 📜 [Code of Conduct](https://github.com/GTInfinityAscension/.github/blob/main/CODE_OF_CONDUCT.md) · 🤖 [AI policy](https://github.com/GTInfinityAscension/.github/blob/main/AI_POLICY.md) |
 
 ## Projects
